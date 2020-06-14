@@ -7,11 +7,9 @@ on:
 jobs:
   build:
     if: github.event.label.name == 'beta_release'
-    env:
-      TITLE: ${{ github.event.title }} 
 
     runs-on: ubuntu-latest
 
     steps:
     - name: Run a one-line script
-      run: echo ${{ github.event.label.name }}
+      run: echo ${{ github.event.issue.title }}
