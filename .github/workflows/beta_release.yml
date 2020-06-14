@@ -8,7 +8,7 @@ jobs:
   build:
     if: github.event.label.name == 'beta_release'
     env:
-      TITLE: github.event.title  
+      TITLE: ${{ github.event.title }} 
 
     runs-on: ubuntu-latest
 
