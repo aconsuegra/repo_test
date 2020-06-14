@@ -7,11 +7,11 @@ on:
 jobs:
   build:
     if: github.event.label.name == 'beta_release'
+    env:
+      TITLE: github.event.title  
 
     runs-on: ubuntu-latest
 
     steps:
     - name: Run a one-line script
-      env:
-        TITLE: github.event.title 
-      run: echo Hello, $TITLE!
+      run: echo $TITLE
