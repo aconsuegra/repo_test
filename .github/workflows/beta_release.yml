@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    if: github.event.label.name == 'beta_release'
+    if: github.event.label.name == 'beta_release' && github.event.issue.state == 'open' 
 
     runs-on: ubuntu-latest
 
