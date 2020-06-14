@@ -12,4 +12,6 @@ jobs:
 
     steps:
     - name: Run a one-line script
-      run: echo Hello, ${{github.event.title}}!
+      env:
+        TITLE: github.event.title 
+      run: echo Hello, $TITLE!
