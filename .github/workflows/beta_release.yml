@@ -1,4 +1,4 @@
-name: Update build code in the version name (major.minor.build)
+name: Update build code in the version name (major.minor.build) when a new beta is released
 
 on:
   issues:
