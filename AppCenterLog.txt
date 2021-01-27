@@ -99,3 +99,6 @@
 2019-10-31 17:41:56.208 1918-2215/? I/ActivityManager: START u0 {act=android.intent.action.VIEW dat=https://install.appcenter.ms/... cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher} from uid 10097
 2019-10-31 17:41:56.501 1918-1930/? I/ActivityManager: START u0 {act=android.intent.action.VIEW dat=https://install.appcenter.ms/... flg=0x14002000 cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity (has extras)} from uid 10049
 2019-10-31 17:42:00.730 1918-2215/? I/ActivityManager: START u0 {act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=appcenter://updates/ flg=0x14000000 pkg=com.microsoft.todos.weekly cmp=com.microsoft.todos.weekly/com.microsoft.appcenter.distribute.DeepLinkActivity (has extras)} from uid 10049
+
+
+
