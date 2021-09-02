@@ -5,10 +5,10 @@
 2019-10-31 17:40:56.617 7203-7281/? D/AppCenter: Using appcenter.0.RSA/ECB/PKCS1Padding/2048
 2019-10-31 17:40:56.720 7203-7281/? D/AppCenter: Loaded stored sessions: {1572539898362=1572539898362//1572539898361, 1572540019827=1572540019827//1572540019827}
 2019-10-31 17:40:56.763 7203-7293/? D/AppCenter: Network 106 is available.
-2019-10-31 17:40:56.763 7203-7293/? D/AppCenter: Network has been connected.
-2019-10-31 17:40:56.768 7203-7281/? I/AppCenter: Changed maximum database size to 10485760 bytes.
+2019-10-31 17:40:56.763 7203-7293/? D/AppCenter: Network has been connected. jkh
+2019-10-31 17:40:56.768 7203-7281/? I/AppCenter: Changed maximum database size to 10485760 bytes. adss
 2019-10-31 17:40:56.768 7203-7281/? D/AppCenter: addGroup(group_core)
-2019-10-31 17:40:56.771 7203-7281/? D/AppCenter: checkPendingLogs(group_core) pendingLogCount=0 batchTimeInterval=3000
+2019-10-31 17:40:56.771 7203-7281/? D/AppCenter: checkPendingLogs(group_core) pendingLogCount=0 batchTimeInterval=3000 wwww
 2019-10-31 17:40:56.771 7203-7281/? D/AppCenter: App Center initialized.
 2019-10-31 17:40:56.772 7203-7281/? D/AppCenter: removeGroup(groupErrors)
 2019-10-31 17:40:56.772 7203-7281/? D/AppCenter: removeGroup(groupErrors/one)
