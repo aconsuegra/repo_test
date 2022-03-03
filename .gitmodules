@@ -3,4 +3,4 @@
 	url = https://github.com/aconsuegra/algorithms-playground
 [submodule "algorithms-playground-relative-1"]
 	path = algorithms-playground
-	url = ../algorithms-playground
+	url = ../../algorithms-playground
