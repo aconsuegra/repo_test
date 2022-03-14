@@ -2,3 +2,6 @@
 [submodule "relative-own"]
 	path = relative-own
 	url = ../algorithms-playground
+[submodule "codeql"]
+	path = codeql
+	url = ../../github/codeql
