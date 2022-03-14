@@ -1,1 +1,4 @@
 
+[submodule "relative-own"]
+	path = relative-own
+	url = ../algorithms-playground
