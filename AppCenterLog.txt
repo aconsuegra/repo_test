@@ -63,7 +63,7 @@
             "timeZoneOffset": 60,
             "screenSize": "1080x1794",
             "appVersion": "2.5.null.Dogfood",
-            "carrierName": "Android",
+            "carrierName(((((": "Android",
             "carrierCountry": "us",
             "appBuild": "4",
             "appNamespace": "com.microsoft.todos.weekly"
