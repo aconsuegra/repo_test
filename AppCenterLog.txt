@@ -1,4 +1,4 @@
-!!!2019-10-31 17:40:56.559 7203-7203/? I/AppCenter: App Center SDK configured successfully.
+123!!!2019-10-31 17:40:56.559 7203-7203/? I/AppCenter: App Center SDK configured successfully.
 2019-10-31 17:40:56.561 7203-7203/? D/AppCenter: Cannot read instrumentation variables in a non-test environment.
 2019-10-31 17:40:56.562 7203-7203/? D/AppCenter: Cannot read instrumentation variables in a non-test environment.
 2019-10-31 17:40:56.601 7203-7281/? D/AppCenter: Using appcenter.0.AES/CBC/PKCS7Padding/256
