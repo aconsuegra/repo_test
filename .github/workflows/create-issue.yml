@@ -3,6 +3,9 @@ name: Automate issue creation with Actions and gh CLI
 on:
   workflow_dispatch:
 
+env:
+  GH_TOKEN: ${{ github.token }}
+    
 jobs:
   create_issue:
     runs-on: ubuntu-latest
