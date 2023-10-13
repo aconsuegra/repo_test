@@ -1,0 +1,12 @@
+name: Automate issue creation with Actions and gh CLI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create_issue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create issue using gh CLI
+        run: gh issue create --title "New issue title" 
