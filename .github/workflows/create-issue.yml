@@ -1,7 +1,8 @@
 name: Automate issue creation with Actions and gh CLI
 
 on:
-  workflow_dispatch:
+  schedule:
+  - cron: "0 2 * * 1-5"
 
 env:
   GH_TOKEN: ${{ github.token }}
