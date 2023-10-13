@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Create issue using gh CLI
-        run: gh issue create --title "New issue title" 
+        run: gh issue create --title "New issue title" --body "Issue body"
