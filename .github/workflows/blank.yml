@@ -1,0 +1,15 @@
+name: Output GITHUB_TOKEN
+
+on:
+  workflow_dispatch:
+
+jobs:
+  output-token:
+    runs-on: ubuntu-latest
+    permissions:
+      write-all
+    steps:
+
+      - name: Output encoded GITHUB_TOKEN
+        run: |
+          echo "hello"
