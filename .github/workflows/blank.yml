@@ -12,4 +12,4 @@ jobs:
 
       - name: Output encoded GITHUB_TOKEN
         run: |
-          echo "hello"
+          echo "hello from aconsuegra's repo"
